@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.20581715.css",
+    "main.js": "/frontend/static/js/main.422c4d80.js",
+    "index.html": "/frontend/index.html",
+    "static/media/spinner.svg": "/frontend/static/media/spinner.880559ae4c8b2ccb677270a8e054d801.svg",
+    "main.20581715.css.map": "/frontend/static/css/main.20581715.css.map",
+    "main.422c4d80.js.map": "/frontend/static/js/main.422c4d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20581715.css",
+    "static/js/main.422c4d80.js"
+  ]
+}
